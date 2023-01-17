@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElasticCollection", "ElasticCollection.csproj", "{F73E1F3D-8639-4553-B4C4-54A225F13DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticCollectionExe", "..\ElasticCollectionExe\ElasticCollectionExe.csproj", "{3CCA835A-16CD-44CC-8E2F-CA4B305C7A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73E1F3D-8639-4553-B4C4-54A225F13DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73E1F3D-8639-4553-B4C4-54A225F13DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73E1F3D-8639-4553-B4C4-54A225F13DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73E1F3D-8639-4553-B4C4-54A225F13DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCA835A-16CD-44CC-8E2F-CA4B305C7A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCA835A-16CD-44CC-8E2F-CA4B305C7A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCA835A-16CD-44CC-8E2F-CA4B305C7A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCA835A-16CD-44CC-8E2F-CA4B305C7A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D748674-3485-4754-AF11-D2E81191175D}
+	EndGlobalSection
+EndGlobal
